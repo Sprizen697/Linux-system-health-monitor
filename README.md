@@ -14,4 +14,4 @@ The script saves health reports to a log file and displays important status mess
 - Checks if a given service is running -done
 - Saves the results in a log file -done
 - Prints the important status messages in the terminal -done
-- Automation -working on
+- Automation -added one for zsh(the current shell im using)
